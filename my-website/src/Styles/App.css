@@ -1,0 +1,21 @@
+body
+{
+    background-color: #8A7A98;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+}
+
+nav
+{
+    background-color: #FBAC40;
+    color: white;
+    padding: 1%;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+.link
+{
+    padding: 50px;
+}
