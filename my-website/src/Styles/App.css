@@ -1,21 +1,24 @@
 body
 {
-    background-color: #8A7A98;
+    background-color: #DFCCFB;
     text-align: center;
     font-family: 'Comic Neue', cursive;
 }
 
 nav
 {
-    background-color: #FBAC40;
+    background-color: #D0BFFF;
     color: white;
     padding: 1%;
     align-items: center;
     border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
 
 }
 
-.link
+.aboutText
 {
-    padding: 50px;
+    line-height: 30px;
 }
