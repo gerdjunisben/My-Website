@@ -1,7 +1,7 @@
 
 function About(){
     
-    return <div>
+    return <div className="main">
         <h1>About Page</h1>
         <t class="aboutText">Hi, I'm Benjamin Gerdjunis and this is my website. <br/>
         This is a fairly simple site to show that I can make one as well as display a few other projects.<br/>

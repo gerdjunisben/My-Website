@@ -1,13 +1,16 @@
 body
 {
-    background-color: #DFCCFB;
+    background-color: #BD3B1F;
     text-align: center;
     font-family: 'Comic Neue', cursive;
+ 
+    padding: 40vh;
+    padding-top: 20vh;
 }
 
 nav
 {
-    background-color: #D0BFFF;
+    background-color: #CC7E00;
     color: white;
     padding: 1%;
     align-items: center;
@@ -21,4 +24,22 @@ nav
 .aboutText
 {
     line-height: 30px;
+}
+
+.main
+{
+    background-color: #F5E9CD;
+    flex-direction: column;
+    display: flex;
+    padding-bottom: 10vh;
+    padding-top: 3vh;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width:1000px)
+{
+    body
+    {
+        padding: 10vh;
+    }
 }
